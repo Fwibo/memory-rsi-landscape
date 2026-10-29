@@ -1,0 +1,109 @@
+W	2203.14465	STaR: Bootstrapping Reasoning With Reasoning
+W	2312.06585	Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models
+W	2401.01335	Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models
+W	2401.10020	Self-Rewarding Language Models
+W	2407.19594	Meta-Rewarding Language Models
+W	2504.16084	TTRL: Test-Time Reinforcement Learning
+W	2505.03335	Absolute Zero: Reinforced Self-play Reasoning with Zero Data
+W	2506.24119	SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning
+W	2506.10943	Self-Adapting Language Models
+W	2508.05004	R-Zero: Self-Evolving Reasoning LLM from Zero Data
+W	2509.07414	Language Self-Play For Data-Free Training
+W	2510.24684	SPICE: Self-Play In Corpus Environments
+W	2511.16043	Agent0: Unleashing Self-Evolving Agents from Zero Data
+W	2602.13103	R-Diverse
+W	2608.26582	J-Zero
+W	2609.30063	Self-Play Pretraining with Zero Data
+W	2412.02674	Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models
+W	2412.01951	Self-Improvement in Language Models: The Sharpening Mechanism
+W	2505.21444	Can Large Reasoning Models Self-Train?
+W	2507.00075	Theoretical Modeling of LLM Self-Improvement Training Dynamics Through Solver-Verifier Gap
+W	2510.27072	Towards Understanding Self-play for LLM Reasoning
+W	2606.01075	On the Generalization Gap in Self-Evolving LM Reasoning
+W	2605.09959	G-Zero
+W	2610.12176	Recursive Self-Improvement through Multi-Agent Self-Supervision
+W	2601.14532	Search over Self-Edit Strategies
+W	2506.01716	Self-Challenging Language Model Agents
+W	2210.11610	Large Language Models Can Self-Improve
+C	2310.02304	Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation
+C	2309.16797	Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution
+C	2410.04444	Godel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement
+C	2408.08435	Automated Design of Agentic Systems
+C	2410.10762	AFlow: Automating Agentic Workflow Generation
+C	2504.15228	A Self-Improving Coding Agent
+C	2505.22954	Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents
+C	2506.13131	AlphaEvolve: A coding agent for scientific and algorithmic discovery
+C	2507.19457	GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning
+C	2509.19349	ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution
+C	2510.21614	Huxley-Godel Machine: Human-Level Coding Agent Development by an Approximation of the Optimal Self-Improving Machine
+C	2511.13646	Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?
+C	2602.23413	EvoX
+C	2603.19461	Hyperagents
+C	2603.23420	Bilevel Autoresearch
+C	2607.15524	Recursive Harness Self-Improvement
+C	2608.08466	Hierarchical Self-Improvement
+C	2608.08311	Ouroboros
+C	2608.07645	Mendel Godel Machine
+C	2609.06396	MetaRSI / RSI2: A Meta-Recursive Self-Improving System for Recursive Self-Improving Systems Themselves
+C	2609.26457	Recursive self-improvement of AI research agents
+C	2609.19526	SIFT
+C	2610.29121	Recursive Self-Improvement on a Budget
+C	2507.18074	AlphaGo Moment for Model Architecture Discovery
+C	2603.08640	PostTrainBench
+C	2608.20318	AI4AI-Bench
+C	2609.17817	Trusting Trust Revisited
+C	2609.00069	Harness tampering in self-improving agents
+C	2609.24972	RRSI: Regularized Recursive Self-Improvement of Agent Harnesses
+C	2610.35434	Skill-infinity: Recursive Self-Improvement for Agent Skill Optimization
+C	2607.05297	MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution
+C	2609.15364	RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments
+C	2505.20286	Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution
+M	2512.18746	MemEvolve: Meta-Evolution of Agent Memory Systems
+M	2602.07755	Learning to Continually Learn via Meta-learning Agentic Memory Designs
+M	2605.13941	EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents
+M	2608.14621	AutoMem: A Text-Gradient Recursive Self-Improvement Framework for Automated Memory Architectures Search
+M	2607.01224	AutoMem: Automated Learning of Memory as a Cognitive Skill
+M	2602.02474	MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents
+M	2604.00830	Learning to Learn-at-Test-Time
+M	2510.13220	EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems
+M	2608.24876	Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses
+M	2508.19828	Memory-R1
+M	2509.25911	Mem-alpha: Learning Memory Construction via Reinforcement Learning
+M	2601.01885	Agentic Memory
+M	2601.03192	MemRL
+M	2607.13591	Memory as a Controlled Process
+M	2603.18718	MemMA
+M	2509.25140	ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory
+M	2510.04618	Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models
+M	2504.07952	Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory
+M	2510.08191	Training-Free Group Relative Policy Optimization
+M	2508.16153	Memento: Fine-tuning LLM Agents without Fine-tuning LLMs
+M	2603.02766	EvoSkill
+M	2511.20857	Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory
+M	2605.18421	EvoMemBench
+M	2601.22436	LLM Agents Are Not Always Faithful Self-Evolvers
+M	2608.18066	On the Fragility of Self-Improving Agents
+M	2505.16067	How Memory Management Impacts LLM Agents
+M	2409.07429	Agent Workflow Memory
+M	2508.06433	Memp: Exploring Agent Procedural Memory
+M	2509.24704	MemGen: Weaving Generative Latent Memory for Self-Evolving Agents
+M	2512.13564	Memory in the Age of AI Agents
+M	2602.06052	A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents
+M	2509.26354	Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents
+M	2604.16968	Safety Risks in Experience-Driven Agents
+M	2512.16962	MemoryGraft
+M	2606.24775	Are We Ready for an Agent-Native Memory System?
+S	2507.21046	A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence
+S	2508.07407	A Comprehensive Survey of Self-Evolving AI Agents
+S	2607.07663	Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops
+S	2610.14625	From Existing Methods to New Research Ideas: Two Perspectives on Recursive Self-Improvement
+S	2607.13104	Self-Improvements in Modern Agentic Systems: A Survey
+S	2603.25681	Self-Improvement of Large Language Models: A Technical Overview and Future Outlook
+S	2609.00137	Recursive Criticality of AI Self-Improvement
+S	2609.15802	The Economics of Recursive Self-Improvement
+S	2607.04277	The Introspection Threshold for Recursive Self-Improvement
+S	2411.15114	RE-Bench
+S	2410.07095	MLE-bench
+S	2504.01848	PaperBench
+S	2602.05570	TangramSR
+S	2603.06333	SAHOO: Safeguarded Alignment for High-Order Optimization Objectives in Recursive Self-Improvement

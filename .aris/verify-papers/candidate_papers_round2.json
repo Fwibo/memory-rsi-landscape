@@ -1,0 +1,962 @@
+[
+ {
+  "id": "X0",
+  "arxiv_id": "2608.00017",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X1",
+  "arxiv_id": "2607.24300",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X2",
+  "arxiv_id": "2607.13083",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X3",
+  "arxiv_id": "2607.12227",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X4",
+  "arxiv_id": "2608.01149",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X5",
+  "arxiv_id": "2604.14004",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X6",
+  "arxiv_id": "2604.25850",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X7",
+  "arxiv_id": "2603.28052",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X8",
+  "arxiv_id": "2603.25723",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X9",
+  "arxiv_id": "2605.09998",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X10",
+  "arxiv_id": "2510.16079",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X11",
+  "arxiv_id": "2511.10395",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X12",
+  "arxiv_id": "2605.18930",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X13",
+  "arxiv_id": "2604.15774",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X14",
+  "arxiv_id": "2608.01679",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X15",
+  "arxiv_id": "2608.01759",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X16",
+  "arxiv_id": "2602.09877",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X17",
+  "arxiv_id": "2606.26294",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X18",
+  "arxiv_id": "2603.00680",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X19",
+  "arxiv_id": "2604.20987",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X20",
+  "arxiv_id": "2607.05202",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X21",
+  "arxiv_id": "2605.18565",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X22",
+  "arxiv_id": "2605.07313",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X23",
+  "arxiv_id": "2606.30566",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X24",
+  "arxiv_id": "2608.04003",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X25",
+  "arxiv_id": "2606.13681",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X26",
+  "arxiv_id": "2604.08988",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X27",
+  "arxiv_id": "2608.00155",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X28",
+  "arxiv_id": "2607.26643",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X29",
+  "arxiv_id": "2605.06614",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X30",
+  "arxiv_id": "2605.22148",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X31",
+  "arxiv_id": "2512.12818",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X32",
+  "arxiv_id": "2602.03224",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X33",
+  "arxiv_id": "2504.13171",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X34",
+  "arxiv_id": "2601.16175",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X35",
+  "arxiv_id": "2504.13173",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X36",
+  "arxiv_id": "2607.28568",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X37",
+  "arxiv_id": "2401.13996",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X38",
+  "arxiv_id": "2403.02757",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X39",
+  "arxiv_id": "2402.17574",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X40",
+  "arxiv_id": "2311.08719",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X41",
+  "arxiv_id": "2303.11366",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X42",
+  "arxiv_id": "2305.16291",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X43",
+  "arxiv_id": "2311.05997",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X44",
+  "arxiv_id": "2406.14596",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X45",
+  "arxiv_id": "2305.14322",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X46",
+  "arxiv_id": "2509.15155",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X47",
+  "arxiv_id": "2502.02740",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X48",
+  "arxiv_id": "2604.23472",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X49",
+  "arxiv_id": "2506.05109",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X50",
+  "arxiv_id": "2606.29823",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X51",
+  "arxiv_id": "2606.31191",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X52",
+  "arxiv_id": "2606.20657",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X53",
+  "arxiv_id": "2606.21089",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X54",
+  "arxiv_id": "2606.03979",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X55",
+  "arxiv_id": "2502.12110",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X56",
+  "arxiv_id": "2604.10923",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X57",
+  "arxiv_id": "2609.02074",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X58",
+  "arxiv_id": "2607.19592",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X59",
+  "arxiv_id": "2606.09498",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X60",
+  "arxiv_id": "2609.11873",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X61",
+  "arxiv_id": "2609.08944",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X62",
+  "arxiv_id": "2605.08374",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X63",
+  "arxiv_id": "2605.20616",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X64",
+  "arxiv_id": "2602.02369",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X65",
+  "arxiv_id": "2604.11811",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X66",
+  "arxiv_id": "2605.13821",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X67",
+  "arxiv_id": "2510.10232",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X68",
+  "arxiv_id": "2605.27276",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X69",
+  "arxiv_id": "2606.31121",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X70",
+  "arxiv_id": "2605.09315",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X71",
+  "arxiv_id": "2607.25886",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X72",
+  "arxiv_id": "2603.29640",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X73",
+  "arxiv_id": "2604.08224",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X74",
+  "arxiv_id": "2602.05848",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X75",
+  "arxiv_id": "2608.24735",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X76",
+  "arxiv_id": "2312.00276",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X77",
+  "arxiv_id": "2509.09498",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X78",
+  "arxiv_id": "2503.21760",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X79",
+  "arxiv_id": "2601.07348",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X80",
+  "arxiv_id": "2608.18104",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X81",
+  "arxiv_id": "2606.21090",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X82",
+  "arxiv_id": "2508.16629",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X83",
+  "arxiv_id": "2510.12635",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X84",
+  "arxiv_id": "2510.11967",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X85",
+  "arxiv_id": "2511.07327",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X86",
+  "arxiv_id": "2512.10696",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X87",
+  "arxiv_id": "2511.07800",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X88",
+  "arxiv_id": "2511.06449",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X89",
+  "arxiv_id": "2509.24771",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X90",
+  "arxiv_id": "2606.23127",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X91",
+  "arxiv_id": "2605.13716",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X92",
+  "arxiv_id": "2604.01687",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X93",
+  "arxiv_id": "2602.12670",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X94",
+  "arxiv_id": "2511.01912",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X95",
+  "arxiv_id": "2506.15841",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X96",
+  "arxiv_id": "2511.02805",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X97",
+  "arxiv_id": "2507.02259",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X98",
+  "arxiv_id": "2511.04919",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X99",
+  "arxiv_id": "2511.23262",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X100",
+  "arxiv_id": "2310.08560",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X101",
+  "arxiv_id": "2404.11672",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X102",
+  "arxiv_id": "2507.05257",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X103",
+  "arxiv_id": "2602.16313",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X104",
+  "arxiv_id": "2506.21605",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X105",
+  "arxiv_id": "2510.08002",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X106",
+  "arxiv_id": "2409.00872",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X107",
+  "arxiv_id": "2510.02373",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X108",
+  "arxiv_id": "2501.11733",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X109",
+  "arxiv_id": "2506.07398",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X110",
+  "arxiv_id": "2507.07957",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X111",
+  "arxiv_id": "2507.06229",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X112",
+  "arxiv_id": "2507.03616",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X113",
+  "arxiv_id": "2606.01770",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X114",
+  "arxiv_id": "2605.22794",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X115",
+  "arxiv_id": "2606.24151",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X116",
+  "arxiv_id": "2510.08558",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X117",
+  "arxiv_id": "2510.04851",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X118",
+  "arxiv_id": "2505.22101",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X119",
+  "arxiv_id": "2505.18279",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X120",
+  "arxiv_id": "2508.08997",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X121",
+  "arxiv_id": "2601.21557",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X122",
+  "arxiv_id": "2603.18620",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X123",
+  "arxiv_id": "2607.21971",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X124",
+  "arxiv_id": "2604.15097",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X125",
+  "arxiv_id": "2607.14159",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X126",
+  "arxiv_id": "2608.05446",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X127",
+  "arxiv_id": "2605.23904",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X128",
+  "arxiv_id": "2607.26784",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X129",
+  "arxiv_id": "2602.04837",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X130",
+  "arxiv_id": "2609.17523",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X131",
+  "arxiv_id": "2609.20519",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X132",
+  "arxiv_id": "2609.39306",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X133",
+  "arxiv_id": "2608.23200",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X134",
+  "arxiv_id": "2601.10657",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X135",
+  "arxiv_id": "2602.01966",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X136",
+  "arxiv_id": "2605.16233",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X137",
+  "arxiv_id": "2606.04536",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X138",
+  "arxiv_id": "2605.12978",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X139",
+  "arxiv_id": "2607.01480",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X140",
+  "arxiv_id": "2606.17803",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X141",
+  "arxiv_id": "2604.14717",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X142",
+  "arxiv_id": "2606.07711",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X143",
+  "arxiv_id": "2607.00368",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X144",
+  "arxiv_id": "2605.20833",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X145",
+  "arxiv_id": "2602.08234",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X146",
+  "arxiv_id": "2607.22529",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X147",
+  "arxiv_id": "2608.31100",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X148",
+  "arxiv_id": "2603.10600",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X149",
+  "arxiv_id": "2601.12538",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X150",
+  "arxiv_id": "2608.03392",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X151",
+  "arxiv_id": "2609.01679",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X152",
+  "arxiv_id": "2606.20683",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X153",
+  "arxiv_id": "2610.00093",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X154",
+  "arxiv_id": "2603.07670",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X155",
+  "arxiv_id": "2510.02665",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X156",
+  "arxiv_id": "2404.14387",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X157",
+  "arxiv_id": "2501.07278",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X158",
+  "arxiv_id": "2609.24663",
+  "doi": null,
+  "title": null
+ },
+ {
+  "id": "X159",
+  "arxiv_id": "2608.06663",
+  "doi": null,
+  "title": null
+ }
+]

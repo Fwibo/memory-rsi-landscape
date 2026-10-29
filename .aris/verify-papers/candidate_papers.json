@@ -1,0 +1,656 @@
+[
+ {
+  "id": "W0",
+  "arxiv_id": "2203.14465",
+  "doi": null,
+  "title": "STaR: Bootstrapping Reasoning With Reasoning"
+ },
+ {
+  "id": "W1",
+  "arxiv_id": "2312.06585",
+  "doi": null,
+  "title": "Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models"
+ },
+ {
+  "id": "W2",
+  "arxiv_id": "2401.01335",
+  "doi": null,
+  "title": "Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models"
+ },
+ {
+  "id": "W3",
+  "arxiv_id": "2401.10020",
+  "doi": null,
+  "title": "Self-Rewarding Language Models"
+ },
+ {
+  "id": "W4",
+  "arxiv_id": "2407.19594",
+  "doi": null,
+  "title": "Meta-Rewarding Language Models"
+ },
+ {
+  "id": "W5",
+  "arxiv_id": "2504.16084",
+  "doi": null,
+  "title": "TTRL: Test-Time Reinforcement Learning"
+ },
+ {
+  "id": "W6",
+  "arxiv_id": "2505.03335",
+  "doi": null,
+  "title": "Absolute Zero: Reinforced Self-play Reasoning with Zero Data"
+ },
+ {
+  "id": "W7",
+  "arxiv_id": "2506.24119",
+  "doi": null,
+  "title": "SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning"
+ },
+ {
+  "id": "W8",
+  "arxiv_id": "2506.10943",
+  "doi": null,
+  "title": "Self-Adapting Language Models"
+ },
+ {
+  "id": "W9",
+  "arxiv_id": "2508.05004",
+  "doi": null,
+  "title": "R-Zero: Self-Evolving Reasoning LLM from Zero Data"
+ },
+ {
+  "id": "W10",
+  "arxiv_id": "2509.07414",
+  "doi": null,
+  "title": "Language Self-Play For Data-Free Training"
+ },
+ {
+  "id": "W11",
+  "arxiv_id": "2510.24684",
+  "doi": null,
+  "title": "SPICE: Self-Play In Corpus Environments"
+ },
+ {
+  "id": "W12",
+  "arxiv_id": "2511.16043",
+  "doi": null,
+  "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data"
+ },
+ {
+  "id": "W13",
+  "arxiv_id": "2602.13103",
+  "doi": null,
+  "title": "R-Diverse"
+ },
+ {
+  "id": "W14",
+  "arxiv_id": "2608.26582",
+  "doi": null,
+  "title": "J-Zero"
+ },
+ {
+  "id": "W15",
+  "arxiv_id": "2609.30063",
+  "doi": null,
+  "title": "Self-Play Pretraining with Zero Data"
+ },
+ {
+  "id": "W16",
+  "arxiv_id": "2412.02674",
+  "doi": null,
+  "title": "Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models"
+ },
+ {
+  "id": "W17",
+  "arxiv_id": "2412.01951",
+  "doi": null,
+  "title": "Self-Improvement in Language Models: The Sharpening Mechanism"
+ },
+ {
+  "id": "W18",
+  "arxiv_id": "2505.21444",
+  "doi": null,
+  "title": "Can Large Reasoning Models Self-Train?"
+ },
+ {
+  "id": "W19",
+  "arxiv_id": "2507.00075",
+  "doi": null,
+  "title": "Theoretical Modeling of LLM Self-Improvement Training Dynamics Through Solver-Verifier Gap"
+ },
+ {
+  "id": "W20",
+  "arxiv_id": "2510.27072",
+  "doi": null,
+  "title": "Towards Understanding Self-play for LLM Reasoning"
+ },
+ {
+  "id": "W21",
+  "arxiv_id": "2606.01075",
+  "doi": null,
+  "title": "On the Generalization Gap in Self-Evolving LM Reasoning"
+ },
+ {
+  "id": "W22",
+  "arxiv_id": "2605.09959",
+  "doi": null,
+  "title": "G-Zero"
+ },
+ {
+  "id": "W23",
+  "arxiv_id": "2610.12176",
+  "doi": null,
+  "title": "Recursive Self-Improvement through Multi-Agent Self-Supervision"
+ },
+ {
+  "id": "W24",
+  "arxiv_id": "2601.14532",
+  "doi": null,
+  "title": "Search over Self-Edit Strategies"
+ },
+ {
+  "id": "W25",
+  "arxiv_id": "2506.01716",
+  "doi": null,
+  "title": "Self-Challenging Language Model Agents"
+ },
+ {
+  "id": "W26",
+  "arxiv_id": "2210.11610",
+  "doi": null,
+  "title": "Large Language Models Can Self-Improve"
+ },
+ {
+  "id": "C27",
+  "arxiv_id": "2310.02304",
+  "doi": null,
+  "title": "Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation"
+ },
+ {
+  "id": "C28",
+  "arxiv_id": "2309.16797",
+  "doi": null,
+  "title": "Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution"
+ },
+ {
+  "id": "C29",
+  "arxiv_id": "2410.04444",
+  "doi": null,
+  "title": "Godel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement"
+ },
+ {
+  "id": "C30",
+  "arxiv_id": "2408.08435",
+  "doi": null,
+  "title": "Automated Design of Agentic Systems"
+ },
+ {
+  "id": "C31",
+  "arxiv_id": "2410.10762",
+  "doi": null,
+  "title": "AFlow: Automating Agentic Workflow Generation"
+ },
+ {
+  "id": "C32",
+  "arxiv_id": "2504.15228",
+  "doi": null,
+  "title": "A Self-Improving Coding Agent"
+ },
+ {
+  "id": "C33",
+  "arxiv_id": "2505.22954",
+  "doi": null,
+  "title": "Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents"
+ },
+ {
+  "id": "C34",
+  "arxiv_id": "2506.13131",
+  "doi": null,
+  "title": "AlphaEvolve: A coding agent for scientific and algorithmic discovery"
+ },
+ {
+  "id": "C35",
+  "arxiv_id": "2507.19457",
+  "doi": null,
+  "title": "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning"
+ },
+ {
+  "id": "C36",
+  "arxiv_id": "2509.19349",
+  "doi": null,
+  "title": "ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution"
+ },
+ {
+  "id": "C37",
+  "arxiv_id": "2510.21614",
+  "doi": null,
+  "title": "Huxley-Godel Machine: Human-Level Coding Agent Development by an Approximation of the Optimal Self-Improving Machine"
+ },
+ {
+  "id": "C38",
+  "arxiv_id": "2511.13646",
+  "doi": null,
+  "title": "Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?"
+ },
+ {
+  "id": "C39",
+  "arxiv_id": "2602.23413",
+  "doi": null,
+  "title": "EvoX"
+ },
+ {
+  "id": "C40",
+  "arxiv_id": "2603.19461",
+  "doi": null,
+  "title": "Hyperagents"
+ },
+ {
+  "id": "C41",
+  "arxiv_id": "2603.23420",
+  "doi": null,
+  "title": "Bilevel Autoresearch"
+ },
+ {
+  "id": "C42",
+  "arxiv_id": "2607.15524",
+  "doi": null,
+  "title": "Recursive Harness Self-Improvement"
+ },
+ {
+  "id": "C43",
+  "arxiv_id": "2608.08466",
+  "doi": null,
+  "title": "Hierarchical Self-Improvement"
+ },
+ {
+  "id": "C44",
+  "arxiv_id": "2608.08311",
+  "doi": null,
+  "title": "Ouroboros"
+ },
+ {
+  "id": "C45",
+  "arxiv_id": "2608.07645",
+  "doi": null,
+  "title": "Mendel Godel Machine"
+ },
+ {
+  "id": "C46",
+  "arxiv_id": "2609.06396",
+  "doi": null,
+  "title": "MetaRSI / RSI2: A Meta-Recursive Self-Improving System for Recursive Self-Improving Systems Themselves"
+ },
+ {
+  "id": "C47",
+  "arxiv_id": "2609.26457",
+  "doi": null,
+  "title": "Recursive self-improvement of AI research agents"
+ },
+ {
+  "id": "C48",
+  "arxiv_id": "2609.19526",
+  "doi": null,
+  "title": "SIFT"
+ },
+ {
+  "id": "C49",
+  "arxiv_id": "2610.29121",
+  "doi": null,
+  "title": "Recursive Self-Improvement on a Budget"
+ },
+ {
+  "id": "C50",
+  "arxiv_id": "2507.18074",
+  "doi": null,
+  "title": "AlphaGo Moment for Model Architecture Discovery"
+ },
+ {
+  "id": "C51",
+  "arxiv_id": "2603.08640",
+  "doi": null,
+  "title": "PostTrainBench"
+ },
+ {
+  "id": "C52",
+  "arxiv_id": "2608.20318",
+  "doi": null,
+  "title": "AI4AI-Bench"
+ },
+ {
+  "id": "C53",
+  "arxiv_id": "2609.17817",
+  "doi": null,
+  "title": "Trusting Trust Revisited"
+ },
+ {
+  "id": "C54",
+  "arxiv_id": "2609.00069",
+  "doi": null,
+  "title": "Harness tampering in self-improving agents"
+ },
+ {
+  "id": "C55",
+  "arxiv_id": "2609.24972",
+  "doi": null,
+  "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses"
+ },
+ {
+  "id": "C56",
+  "arxiv_id": "2610.35434",
+  "doi": null,
+  "title": "Skill-infinity: Recursive Self-Improvement for Agent Skill Optimization"
+ },
+ {
+  "id": "C57",
+  "arxiv_id": "2607.05297",
+  "doi": null,
+  "title": "MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution"
+ },
+ {
+  "id": "C58",
+  "arxiv_id": "2609.15364",
+  "doi": null,
+  "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments"
+ },
+ {
+  "id": "C59",
+  "arxiv_id": "2505.20286",
+  "doi": null,
+  "title": "Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution"
+ },
+ {
+  "id": "M60",
+  "arxiv_id": "2512.18746",
+  "doi": null,
+  "title": "MemEvolve: Meta-Evolution of Agent Memory Systems"
+ },
+ {
+  "id": "M61",
+  "arxiv_id": "2602.07755",
+  "doi": null,
+  "title": "Learning to Continually Learn via Meta-learning Agentic Memory Designs"
+ },
+ {
+  "id": "M62",
+  "arxiv_id": "2605.13941",
+  "doi": null,
+  "title": "EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents"
+ },
+ {
+  "id": "M63",
+  "arxiv_id": "2608.14621",
+  "doi": null,
+  "title": "AutoMem: A Text-Gradient Recursive Self-Improvement Framework for Automated Memory Architectures Search"
+ },
+ {
+  "id": "M64",
+  "arxiv_id": "2607.01224",
+  "doi": null,
+  "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill"
+ },
+ {
+  "id": "M65",
+  "arxiv_id": "2602.02474",
+  "doi": null,
+  "title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents"
+ },
+ {
+  "id": "M66",
+  "arxiv_id": "2604.00830",
+  "doi": null,
+  "title": "Learning to Learn-at-Test-Time"
+ },
+ {
+  "id": "M67",
+  "arxiv_id": "2510.13220",
+  "doi": null,
+  "title": "EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems"
+ },
+ {
+  "id": "M68",
+  "arxiv_id": "2608.24876",
+  "doi": null,
+  "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses"
+ },
+ {
+  "id": "M69",
+  "arxiv_id": "2508.19828",
+  "doi": null,
+  "title": "Memory-R1"
+ },
+ {
+  "id": "M70",
+  "arxiv_id": "2509.25911",
+  "doi": null,
+  "title": "Mem-alpha: Learning Memory Construction via Reinforcement Learning"
+ },
+ {
+  "id": "M71",
+  "arxiv_id": "2601.01885",
+  "doi": null,
+  "title": "Agentic Memory"
+ },
+ {
+  "id": "M72",
+  "arxiv_id": "2601.03192",
+  "doi": null,
+  "title": "MemRL"
+ },
+ {
+  "id": "M73",
+  "arxiv_id": "2607.13591",
+  "doi": null,
+  "title": "Memory as a Controlled Process"
+ },
+ {
+  "id": "M74",
+  "arxiv_id": "2603.18718",
+  "doi": null,
+  "title": "MemMA"
+ },
+ {
+  "id": "M75",
+  "arxiv_id": "2509.25140",
+  "doi": null,
+  "title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"
+ },
+ {
+  "id": "M76",
+  "arxiv_id": "2510.04618",
+  "doi": null,
+  "title": "Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models"
+ },
+ {
+  "id": "M77",
+  "arxiv_id": "2504.07952",
+  "doi": null,
+  "title": "Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory"
+ },
+ {
+  "id": "M78",
+  "arxiv_id": "2510.08191",
+  "doi": null,
+  "title": "Training-Free Group Relative Policy Optimization"
+ },
+ {
+  "id": "M79",
+  "arxiv_id": "2508.16153",
+  "doi": null,
+  "title": "Memento: Fine-tuning LLM Agents without Fine-tuning LLMs"
+ },
+ {
+  "id": "M80",
+  "arxiv_id": "2603.02766",
+  "doi": null,
+  "title": "EvoSkill"
+ },
+ {
+  "id": "M81",
+  "arxiv_id": "2511.20857",
+  "doi": null,
+  "title": "Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory"
+ },
+ {
+  "id": "M82",
+  "arxiv_id": "2605.18421",
+  "doi": null,
+  "title": "EvoMemBench"
+ },
+ {
+  "id": "M83",
+  "arxiv_id": "2601.22436",
+  "doi": null,
+  "title": "LLM Agents Are Not Always Faithful Self-Evolvers"
+ },
+ {
+  "id": "M84",
+  "arxiv_id": "2608.18066",
+  "doi": null,
+  "title": "On the Fragility of Self-Improving Agents"
+ },
+ {
+  "id": "M85",
+  "arxiv_id": "2505.16067",
+  "doi": null,
+  "title": "How Memory Management Impacts LLM Agents"
+ },
+ {
+  "id": "M86",
+  "arxiv_id": "2409.07429",
+  "doi": null,
+  "title": "Agent Workflow Memory"
+ },
+ {
+  "id": "M87",
+  "arxiv_id": "2508.06433",
+  "doi": null,
+  "title": "Memp: Exploring Agent Procedural Memory"
+ },
+ {
+  "id": "M88",
+  "arxiv_id": "2509.24704",
+  "doi": null,
+  "title": "MemGen: Weaving Generative Latent Memory for Self-Evolving Agents"
+ },
+ {
+  "id": "M89",
+  "arxiv_id": "2512.13564",
+  "doi": null,
+  "title": "Memory in the Age of AI Agents"
+ },
+ {
+  "id": "M90",
+  "arxiv_id": "2602.06052",
+  "doi": null,
+  "title": "A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents"
+ },
+ {
+  "id": "M91",
+  "arxiv_id": "2509.26354",
+  "doi": null,
+  "title": "Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents"
+ },
+ {
+  "id": "M92",
+  "arxiv_id": "2604.16968",
+  "doi": null,
+  "title": "Safety Risks in Experience-Driven Agents"
+ },
+ {
+  "id": "M93",
+  "arxiv_id": "2512.16962",
+  "doi": null,
+  "title": "MemoryGraft"
+ },
+ {
+  "id": "M94",
+  "arxiv_id": "2606.24775",
+  "doi": null,
+  "title": "Are We Ready for an Agent-Native Memory System?"
+ },
+ {
+  "id": "S95",
+  "arxiv_id": "2507.21046",
+  "doi": null,
+  "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence"
+ },
+ {
+  "id": "S96",
+  "arxiv_id": "2508.07407",
+  "doi": null,
+  "title": "A Comprehensive Survey of Self-Evolving AI Agents"
+ },
+ {
+  "id": "S97",
+  "arxiv_id": "2607.07663",
+  "doi": null,
+  "title": "Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops"
+ },
+ {
+  "id": "S98",
+  "arxiv_id": "2610.14625",
+  "doi": null,
+  "title": "From Existing Methods to New Research Ideas: Two Perspectives on Recursive Self-Improvement"
+ },
+ {
+  "id": "S99",
+  "arxiv_id": "2607.13104",
+  "doi": null,
+  "title": "Self-Improvements in Modern Agentic Systems: A Survey"
+ },
+ {
+  "id": "S100",
+  "arxiv_id": "2603.25681",
+  "doi": null,
+  "title": "Self-Improvement of Large Language Models: A Technical Overview and Future Outlook"
+ },
+ {
+  "id": "S101",
+  "arxiv_id": "2609.00137",
+  "doi": null,
+  "title": "Recursive Criticality of AI Self-Improvement"
+ },
+ {
+  "id": "S102",
+  "arxiv_id": "2609.15802",
+  "doi": null,
+  "title": "The Economics of Recursive Self-Improvement"
+ },
+ {
+  "id": "S103",
+  "arxiv_id": "2607.04277",
+  "doi": null,
+  "title": "The Introspection Threshold for Recursive Self-Improvement"
+ },
+ {
+  "id": "S104",
+  "arxiv_id": "2411.15114",
+  "doi": null,
+  "title": "RE-Bench"
+ },
+ {
+  "id": "S105",
+  "arxiv_id": "2410.07095",
+  "doi": null,
+  "title": "MLE-bench"
+ },
+ {
+  "id": "S106",
+  "arxiv_id": "2504.01848",
+  "doi": null,
+  "title": "PaperBench"
+ },
+ {
+  "id": "S107",
+  "arxiv_id": "2602.05570",
+  "doi": null,
+  "title": "TangramSR"
+ },
+ {
+  "id": "S108",
+  "arxiv_id": "2603.06333",
+  "doi": null,
+  "title": "SAHOO: Safeguarded Alignment for High-Order Optimization Objectives in Recursive Self-Improvement"
+ }
+]
